@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>793639653760-9c1fnbs4umvt0kaillclndebbl9r5kms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793639653760-9c1fnbs4umvt0kaillclndebbl9r5kms</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>793639653760-d6jkcrgej22i2otbadt8u7rflkpnmjma.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPSb1HGbDRh4m4ORvCSiFkZFjyuVaZRJo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>793639653760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.meetcute</string>
+	<key>PROJECT_ID</key>
+	<string>meetcute-45b31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetcute-45b31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:793639653760:ios:abf182d3eceae54e03b165</string>
+</dict>
+</plist>

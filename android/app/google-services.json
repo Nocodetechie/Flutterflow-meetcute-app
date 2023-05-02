@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "793639653760",
+    "project_id": "meetcute-45b31",
+    "storage_bucket": "meetcute-45b31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793639653760:android:c2d99110eb72363f03b165",
+        "android_client_info": {
+          "package_name": "com.mycompany.meetcute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793639653760-d6jkcrgej22i2otbadt8u7rflkpnmjma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.meetcute",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "793639653760-dkdpp9vekm4hlsbaom3og3mdu0s1u186.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbMV6SlM19ZcbGs470B-pwJtJ93Tblng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793639653760-dkdpp9vekm4hlsbaom3og3mdu0s1u186.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793639653760-9c1fnbs4umvt0kaillclndebbl9r5kms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.meetcute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
